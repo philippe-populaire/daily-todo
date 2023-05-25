@@ -1,6 +1,7 @@
-[ ] finish reading Git tutorial book
+[x] finish reading Git tutorial book
 [ ] flask
 [ ] node.js
 [ ] Kubernetes
 [ ] redis approfondir avec petit projet et backup via HD ou DB
 [ ] Neural Networks
+[ ] others
